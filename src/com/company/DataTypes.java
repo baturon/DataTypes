@@ -40,7 +40,7 @@ public class DataTypes {
         char firstLetter='A';
         int count=10;
         double mass=1.2;
-        String name='Aleks';
+
 
 
 
